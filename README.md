@@ -9,7 +9,7 @@ Using Esp32 board to debug another boards with UART communication.
 5. Connect USB on Esp32 to power up.
 6. Open Putty, set Connection Type to Serial.
 7. Set Com Port of ESP32 device, eg. COM3
-8. Set speed to 115200 
+8. Set speed to 115200 (same speed of target board to debug)
 9. Connect!
 10. The debug log should be show
 
